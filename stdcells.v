@@ -2440,6 +2440,10 @@ module WELLTAP_X1 ();
 
 endmodule
 
+module TAPCELL_X1 ();
+
+endmodule
+
 module FILLCELL_X1 ();
 
 endmodule
